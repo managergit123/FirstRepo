@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("First Git project");
 		System.out.println("Hello World");
 		System.out.println("Another statement");
+		System.out.println("stat added by team members");
 	}
 
 }
